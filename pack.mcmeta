@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "A WesterosBlocks overlay for adding smooth overlay textures between terrainset blocks."
+  }
+}
